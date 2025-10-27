@@ -1,3 +1,4 @@
-Trabalho Escolar em Markdown
+Trabalho Escolar em Markdown.
+
 
 Espero que tenha um bom proveito.
