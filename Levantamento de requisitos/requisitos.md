@@ -2,3 +2,5 @@
 ---
 Nos últimos anos, o uso de Websites tem sido bastante essencial para facilitar o acesso a informação e otimizar processos em diversas áreas. Este projeto aborda o desenvolvimento de um sistema web voltado para a visualização do estado dos caixas automáticos (ATMs) na Camama.O principal objetivo é permitir que os usuários saibam, em tempo real, quais ATMs estão em funcionamento e quais apresentam falta de valor ou papel.
 
+Requisitos Funcionais| Descrição|
+RF01| O sistema deve permitir que o usuário visualize os ATMs disponíveis|
