@@ -1,6 +1,8 @@
 # Desenvolvimento de um Sistema que Permite visualizar Valores e Papéis em Caixas Eletrónicos(ATMs)
 ---
+
 Nos últimos anos, o uso de Websites tem sido bastante essencial para facilitar o acesso a informação e otimizar processos em diversas áreas. Este projeto aborda o desenvolvimento de um sistema web voltado para a visualização do estado dos caixas automáticos (ATMs) na Camama.O principal objetivo é permitir que os usuários saibam, em tempo real, quais ATMs estão em funcionamento e quais apresentam falta de valor ou papel.
+
 ---
 Requisitos Funcionais| Descrição
 ---|---
@@ -10,3 +12,9 @@ RF03| O sistema deve permitir que o administrador cadastre, edite e remova ATMs
 RF04| O sistema deve atualizar automaticamente o estado dos ATMs a cada 5 minutos 
 
 
+Requisitos Não Funcionais | Descrição
+---|---
+RNF01| O sistema deve estar disponível 24 horas por dia
+RNF02| O sistema deve ser compatível com navegadores modernos (Chrome, Edge, Firefox)
+RNF03| O sistema deve garantir que apenas administradores autenticados possam alterar dados
+RNF04| O banco de dados deve suportar até 5000 registros de ATMs
