@@ -1,6 +1,3 @@
 Autor: José Maquica Ngimbi
 
-O sitema deve permitir ver caixas electrónicos(ATMs) disponível, reduzindo o tempo e evitar deslocações desnecessárias em caso de falta de sistema.
-
-Estou com o Tuninho e o Josias a estudar.
-
+O SGE (Sistema de Gerenciamento de Estágio) tem como objectivo principal facilitar e centralizar as actividades de controle dos estágios curriculares e extracurriculares de alunos de uma instituição de ensino.
