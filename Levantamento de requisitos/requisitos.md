@@ -86,3 +86,10 @@ RNF11: Caso seja Web, deve seguir os padrões HTML5,CSS3, e Javascript ES6+.
 
 
 O sistema permitirá o registo de alunos, supervisores e empresas, submissão de relatórios de estágio, e acompanhamento contínuo do progresso dos alunos. A proposta  responde a necessidade  de modernização  e eficiência na comunicação entre todos os intervenientes no processo de estágio. O sistema permitirá o registo de alunos, supervisores e empresas, submissão de relatórios de estágio, e acompanhamento contínuo do progresso dos alunos. A proposta  responde a necessidade  de modernização  e eficiência na comunicação entre todos os intervenientes no processo de estágio.
+
+
+## Diagrama de Casos de Uso
+
+Abaixo estarão listados os casos de uso de cada requisito funcional do sistema.
+
+
